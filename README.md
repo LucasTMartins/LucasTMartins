@@ -1,4 +1,4 @@
-[![ImLucas](https://img.shields.io/badge/imlucast.dev.br-8839ef?style=for-the-badge)](https://imlucas.dev.br/)
+[![ImLucas](https://img.shields.io/badge/imlucas.dev.br-8839ef?style=for-the-badge)](https://imlucas.dev.br/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/lucastmartins/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:lucastmartins.dev@gmail.com)
 
